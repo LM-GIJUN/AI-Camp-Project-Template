@@ -84,12 +84,10 @@
 
 ## **6. 팀원 소개**
 
-| 이름 | 역할 | GitHub | 담당 기능 |
-| :--- | :--- | :--- | :--- |
-| **팀원1** | 팀장 / 백엔드 | [GitHub 링크](링크 입력) | FastAPI 서버 구축 |
-| **팀원2** | 프롬프트 엔지니어 | [GitHub 링크](링크 입력) | 기능별 프롬프트 설계 및 최적화 |
-| **팀원3** | 프론트엔드 | [GitHub 링크](링크 입력) | Streamlit 기반 UI/UX 개발 |
-| **팀원4** | 백엔드 | [GitHub 링크](링크 입력) | LLM API 연동 |
+
+| ![박커널](https://avatars.githubusercontent.com/u/156163982?v=4) | ![이커널](https://avatars.githubusercontent.com/u/156163982?v=4) | ![최커널](https://avatars.githubusercontent.com/u/156163982?v=4) | ![김커널](https://avatars.githubusercontent.com/u/156163982?v=4) | 
+| :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | 
+|            [박커널](https://github.com/UpstageAILab)             |            [이커널](https://github.com/UpstageAILab)             |            [최커널](https://github.com/UpstageAILab)             |            [김커널](https://github.com/UpstageAILab)             |   
 
 ---
 
