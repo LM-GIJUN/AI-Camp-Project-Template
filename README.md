@@ -1,0 +1,1 @@
+# AI-Camp-Project-Template
