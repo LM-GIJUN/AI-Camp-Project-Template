@@ -87,7 +87,7 @@
 
 | ![박커널](https://avatars.githubusercontent.com/u/156163982?v=4) | ![이커널](https://avatars.githubusercontent.com/u/156163982?v=4) | ![최커널](https://avatars.githubusercontent.com/u/156163982?v=4) | ![김커널](https://avatars.githubusercontent.com/u/156163982?v=4) | 
 | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | 
-|            [박커널](https://github.com/UpstageAILab)             |            [이커널](https://github.com/UpstageAILab)             |            [최커널](https://github.com/UpstageAILab)             |            [김커널](https://github.com/UpstageAILab)             |   
+|            [박커널](https://github.com/)             |            [이커널](https://github.com/)             |            [최커널](https://github.com/)             |            [김커널](https://github.com/)             |   
 
 ---
 
